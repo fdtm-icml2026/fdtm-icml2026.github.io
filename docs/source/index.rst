@@ -4,7 +4,8 @@ From Data to Discovery: Machine Learning for Dynamical Systems
 *ICLR 2026 workshop proposal*
 
 .. image:: _static/logos/fddlogo.png
-  :width: 300
+  :width: 340
+  :height: 370
   :align: right
 
 Dynamical systems provide the foundation for modeling and understanding complex scientific phenomena, from healthcare to climate science and beyond. The recent availability of large-scale time-series data has created unprecedented opportunities to study how these systems evolve and how external influences shape their behavior. Building on these datasets, machine learning has made rapid advances in modeling dynamics: foundation models for time series excel at forecasting system evolution, while AI agents equipped with world models can plan and make decisions by reasoning over possible futures. Despite these successes, a fundamental question remains: do these models truly capture the mechanisms that govern real-world systems? Mechanistic understanding is crucial for scientific insight, robust reasoning, adaptation, and reliable control. Realizing the scientific potential of these models requires rigorously assessing and advancing their ability to represent and reason about underlying mechanisms of complex scientific phenomena.
