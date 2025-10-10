@@ -1,75 +1,55 @@
-2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)
-========================================================================
+From Data to Discovery: Machine Learning for Dynamical Systems
+===============================================================
 
-*ICML 2025 workshop*: see the `official site <https://icml.cc/virtual/2025/workshop/39974>`_ for the detailed schedule, livestream and recording, etc.
+*ICLR 2026 workshop*
 
-.. image:: _static/logos/PUT_logo.png
-  :width: 200
+.. image:: _static/logos/fddlogo.png
+  :width: 300
   :align: right
 
-Our second workshop on test-time adaptation will be held at ICML 2025 this summer in Vancouver!
+Dynamical systems provide the foundation for modeling and understanding complex scientific phenomena, from healthcare to climate science and beyond. The recent availability of large-scale time-series data has created unprecedented opportunities to study how these systems evolve and how external influences shape their behavior. Building on these datasets, machine learning has made rapid advances in modeling dynamics: foundation models for time series excel at forecasting system evolution, while AI agents equipped with world models can plan and make decisions by reasoning over possible futures. Despite these successes, a fundamental question remains: do these models truly capture the mechanisms that govern real-world systems? Mechanistic understanding is crucial for scientific insight, robust reasoning, adaptation, and reliable control. Realizing the scientific potential of these models requires rigorously assessing and advancing their ability to represent and reason about underlying mechanisms of complex scientific phenomena.
 
-**When and Where.** The workshop will be held on Jul. 18! Come join us in Meeting 220-222 in the West Convention Center.
-
-**Scope.** Note the increased scope from the last edition to now encompass test-time updates more broadly.
-As a workshop at ICML, it is important to host and cross-pollinate work across different learning settings and domains.
-
-Consider joining us to discover and contribute to the latest on updates after training: *the test begins now!*
+The goal of this workshop is to bring together researchers from different communities to critically examine how current machine learning methods can advance scientific understanding of complex systems. By fostering interdisciplinary dialogue, we aim to assess the strengths and limitations of large models, identify promising directions for modeling, learning, and control, and highlight opportunities for closer integration between approaches. Grounding these discussions in real scientific applications, the workshop seeks to introduce exciting open problems to the broader community and stimulate the development of new approaches to address fundamental challenges in the sciences.
 
 Call for Papers
 ---------------
 
-**Topics** We will welcome and highlight content on test-time and post-training updates:
+We invite contributions on the following topics:
 
-- opportunities and challenges for test-time updates for specific applications or deployments;
-- unsupervised or self-supervised losses for optimization during testing;
-- parameterizations of updates to inputs, models, or outputs at any scale and for white-box and black-box systems (including updates to open or closed foundation model systems);
-- coping with test-time input shifts (domain adaptation), test-time attacks (adversarial defense), or test-time task changes (online continual learning);
-- metrics/datasets/benchmarks to validate and evaluate test-time updates by the changes in performance measures and the computation required;
-- adapting large-scale/foundation models (LLMs, VLMs, etc.) to specialized or personalized domains whether by in-context learning / adaptation / continual learning / editing.
+1. Time series modeling & time series foundation models (including applications)
+2. Dynamical systems modeling & hybrid modeling (including applications)
+3. Applications such as (but not limited to) healthcare, biology, neuroscience, and climate modeling
+4. Control Theory, reinforcement learning, and world models
 
-**Keywords** Adaptation, Continual Learning, Robustness, Personalization
+**Submission Types**
 
-**Format**
-We will welcome submission of short papers (= 4 pages content without the references as well as an (optional) Appendix with an unlimited number of pages). Accepted submissions will be selected for poster, lightning talk (= 1 slide in 1 minute), and oral presentation at the workshop.
-The workshop will not include proceedings.
+Submissions will present novel work and reflect the diversity of perspectives that the workshop aims to foster and connect. Contributions must be original and not published at any prior conference, including ICLR 2026. We invite four complementary types of submissions:
 
-*We welcome the submission of relevant, high-quality, short paper versions of papers accepted to the main conference.*
+- **Research papers** (4-6 pages): Present original work that advances methods or applications related to the workshop theme.
+- **Tiny papers** (2 pages): Early-stage, concise, or exploratory ideas that would benefit from community feedback during the workshop. This track aims at lowering the barrier to participation for researchers who may not typically publish in ML venues.
+- **Position papers** (2-4 pages): Offer clear perspectives or arguments on future directions, methodological challenges, or conceptual debates across relevant fields. Position papers must start with the prefix "Position:" in their title.
+- **Datasets and benchmarks** (2-4 pages): Introduce novel datasets, benchmarks, or evaluation protocols relevant to time series and dynamics benchmarking. Submission of code and/or data is mandatory for this track.
 
-Invited Speakers
-----------------
+All submissions must follow the ICLR 2026 formatting guidelines (page limits exclude references and appendices) and will be reviewed through OpenReview under a double-blind process. Accepted papers will be presented in poster sessions, with a subset selected for oral presentations. Paper PDFs and poster thumbnails will be available on the workshop website. The workshop will be non-archival, and a Best Paper Award will be given to one paper, selected by the program committee.
+
+Important Dates
+---------------
+
+Our submission timeline follows the ICLR 2026 recommended schedule:
+
+- **15 December 2025:** Submission portal opens
+- **30 January 2026:** Submission deadline
+- **15 February 2026:** Reviewing deadline
+- **1 March 2026:** Author notification (global deadline)
+- **19 April 2026:** Camera-ready deadline and poster upload
+
+Invited Speakers & Panelists
+-----------------------------
+
+We have invited a diverse set of speakers for invited talks and researchers for a panel discussion. All speakers and panelists have confirmed their interest in participating in the workshop.
 
 .. raw:: html
     :file: speakers.html
-
-Bonus Track Submission (Done)
------------------------------
-
-**Thank you to everyone who sent in one-slide updates to share at our bonus track**.
-
-We invite content for a “bonus track” of our workshop to better broadcast projects, progress, and announcements from and for the community.
-What could be more in the spirit of test-time updates?
-
-The `bonus slides <https://docs.google.com/presentation/d/1wFJGXpqP2ncBVmCjUI1XLtIW5Hgub0wNNbLYFZ_Y9NI/edit?slide=id.g3699d5f981b_0_0#slide=id.g3699d5f981b_0_0>`_ will be auto-played during the poster sessions and breaks and are shared online`.
-
-Paper Submission (Done)
------------------------
-
-**The deadline is done! It was May 23 2025 at midnight (AoE)**.
-
-Please see the system on OpenReview: `<https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT>`_.
-
-- Decisions: June 9th
-- Camera ready: July 9th
-
-Call for Reviewers (Done)
-------------------------
-
-**Thank you to all of our volunteers who signed up to review! The review period has already begun and the sign-up form is now closed.**
-
-We are looking for qualified reviewers to help us select papers for the workshop.
-All reviewers will be credited for their academic service on the workshop site.
-If you have published on test-time adaptation, continual learning, model editing, and the other topics of our call then please volunteer.
 
 Organizers
 ----------
@@ -81,128 +61,11 @@ Organizers
 Program Committee
 -----------------
 
-We thank all of our reviewrs, area chairs, and program chairs for volunteering their time and expertise!
+TBC
 
-**Reviewers**
-
-- Myungjoon Kim
-- Srishti Gupta
-- Ashwin Vaswani
-- Jihyun Yu
-- Ekagra Ranjan
-- Yingnan Liu
-- Jörg Simon
-- Simran Barnwal
-- Junhyug Noh
-- Amrith Coumaran
-- Olivia Markham
-- Rishit Dholakia
-- Drishti Sharma
-- Damian Sójka
-- Taeckyung Lee
-- Wonho Bae
-- Avi Gupta
-- Issam H. Laradji
-- Tim G. Zhou
-- Yunbei Zhang
-- Nicholas I-Hsien Kuo
-- Shyma Yaser Alhuwaider
-- Enis Simsar
-- Heitor Rapela Medeiros
-- Devavrat Tomar
-- Utsav Garg
-- Vladan Stojnić
-- Hyesu Lim
-- Prabhav Sanga
-- Vineet Jain
-- Alireza Dehghanpour Farashah
-- Neil R. Fernandes
-- Komal K. Teru
-- Gido M van de Ven
-- Shambhavi Mishra
-- Kapilan Balagopalan
-- Zixin Ding
-- Yuran Li
-- Daniele Angioni
-- Tigran Fahradyan
-- Srikar Mutnuri
-- Jiayi Guo
-- Julian Bitterwolf
-- Jason Poulos
-- Stefan Nielsen
-- Siddharth Mansingh
-- Rakesh Chowdary Machineni
-- Antonio Carta
-- Albert Manuel Orozco Camacho
-- Klara Janouskova
-- Laurenz A. Farthofer
-- Trung-Hieu Hoang
-- Sazia Mahfuz
-- Yuto Kojima
-- Zefeng Li
-- Saiyue Lyu
-- Nikhil Pratap Ghanathe
-- Benedikt Tscheschner
-- Michael Cooper
-- Cong Liu
-- Jiahang Li
-- Christoph H. Lampert
-- Christos Ziakas
-- Hicham Eddoubi
-- Jack Lu
-- Gianluca Guglielmo
-- Ali Edalati
-- Shuaicheng Niu
-- Olga Saukh
-- Davis Liang
-- Maura Pintor
-- Qingyang Zhang
-- Akash Gupta
-- Idan Shenfeld
-- Anthony Fuller
-- Bogdan Raducanu
-- Vaclav Voracek
-- Mingxuan Liu
-- Ali Parviz
-- Yuran Li
-- Michael Chang
-- Mikel Menta
-- Gabriel Villalonga Pineda
-- Motasem Alfarra
-- Gabriel Villalonga Pineda
-- Hasan Abed Al Kader Hammoud
-
-**Area Chairs**
-
-- Francesco Croce
-- Yunhui Guo
-- Sarthak Kumar Maharana
-- Marc Masana
-- Evgenia Rusak
-- Steffen Schneider
-- Evan Shelhamer
-- Teresa Yeo
-
-**Program Chairs**
-
-- Evgenia Rusak
-- Steffen Schneider
-- Evan Shelhamer
-
-Logistics
----------
-
-The workshop is held on Friday July 18 at the Vancouver convention center (West) in rooms 220-222.
-The venue will open at 8:30am and the event will begin at 9:00am.
-
-Registered attendees can refer to the full schedule and livestream on icml.cc: https://icml.cc/virtual/2025/workshop/39974.
-
-Note for poster presenters: morning posters should go up during 8:30-9am before the start and afternoon posters should go up 12:30-1pm before the end of lunch.
-
-Contact
--------
-
-Please reach the workshop organizers at ``tta-icml25@googlegroups.com``.
+.. Contact
+.. -------
+.. Please reach the workshop organizers at ``fdd-iclr26@googlegroups.com``.
 
 .. toctree::
    :maxdepth: 2
@@ -213,7 +76,7 @@ Please reach the workshop organizers at ``tta-icml25@googlegroups.com``.
    Papers <papers>
 
 .. meta::
-      :title: 2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)
+      :title: From Data to Discovery: Machine Learning for Dynamical Systems
 
       :description lang=en:
-         Our second workshop on test-time adaptation will be held at ICML 2025 this summer in Vancouver!
+         Workshop at ICLR 2026 bringing together researchers to critically examine how current machine learning methods can advance scientific understanding of complex systems.

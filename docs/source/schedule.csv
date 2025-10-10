@@ -1,25 +1,13 @@
-Start time,Program,Paper(s)
-9:00,📢 Opening Remarks,
-9:15,🎤 Invited Talk 1,Deepak Pathak
-9:45,⚡ Lightning Talk 1,"1-8, 10, 11, 13, 14, 15, 17"
-10:00,🎙️ Oral Talk 1,72: Monitoring Risks in Test-Time Adaptation
-10:15,⚡ Lightning Talk 2,"18-23, 25, 26, 28, 29, 32-36"
-10:30,🎙️ Oral Talk 2,61: Shift-Aware Test Time Adaptation and Benchmarking for Time-Series Forecasting
-10:45,🎤 Invited Talk 2,Xiaoxiao Li
-11:15,🖼️ Poster Session 1,Papers from Lightning Talks 1 and 2
-12:00,🍽️ Lunch,
-13:00,🎤 Invited Talk 3,Rahaf Aljundi
-13:30,⚡ Lightning Talk 3,"37-40, 43-46, 48-51, 53"
-13:45,🎙️ Oral Talk 3,35: e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs
-14:00,⚡ Lightning Talk 4,"54, 57-61, 63-66, 68, 71, 72"
-14:15,🎙️ Oral Talk 4,13: Language Model Personalization via Reward Factorization
-14:30,🖼️ Poster Session 2,Papers from Lightning Talks 3 and 4
-15:15,☕️ Break,
-15:30,🎤 Invited Talk 4,Shuaicheng Niu
-16:00,🎙️ Oral Talk 5,33: Leto: Modeling Multivariate Time Series with Memorizing at Test Time
-16:15,🎙️ Oral Talk 6,59: Adaptive Diffusion Denoised Smoothing: Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion
-16:30,🎤 Invited Talk 5,Chelsea Finn
-17:00,🏆 Best Paper Announcement + Panel Setup
-17:00,💬 Panel Discussion
-17:45,📢 Closing Remarks
-17:50,🏁 Finish
+Time,Program,Details
+09:00 - 09:15,📢 Opening Remarks,
+09:15 - 09:45,🎤 Invited Talk 1,TBC
+09:45 - 10:15,🎤 Invited Talk 2,TBC
+10:15 - 10:45,🎙️ Oral Talks,2 x 15 min talks
+10:45 - 11:45,🖼️ Poster Session,
+11:45 - 12:30,🍽️ Lunch + Poster Session,
+12:30 - 13:30,🎤 Invited Talk 3,TBC
+13:30 - 14:00,🎤 Invited Talk 4,TBC
+14:30 - 15:00,🎙️ Oral Talks,2 x 15 min talks
+15:00 - 16:00,☕ Coffee Break and Poster Session,
+16:00 - 16:30,🎤 Invited Talk 5,TBC
+16:30 - 17:30,💬 Panel Discussion,

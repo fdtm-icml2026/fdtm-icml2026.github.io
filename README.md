@@ -1,6 +1,8 @@
-# 2nd Workshop on Test-Time Adaptation:<br>Putting Updates to the Test! (PUT)
+# From Data to Discovery: Machine Learning for Dynamical Systems
 
-For the published page, please see https://tta-icml2025.github.io/.
+Workshop at ICLR 2026
+
+For the published page, please see TBC (site will be published once the workshop is accepted).
 
 ## Development/updates
 
@@ -13,7 +15,7 @@ If you want to edit this site:
     - Papers are listed in [./docs/source/papers.csv](./docs/source/papers.csv)
 - Organizers: Edit [./docs/source/organizers.html](./docs/source/organizers.html)
     - Organizer photos are in [./docs/source/_static/organizers](./docs/source/_static/organizers)
-- Speakers: Edit [./docs/source/speakers.rst](./docs/source/speakers.rst)
+- Speakers: Edit [./docs/source/speakers.html](./docs/source/speakers.html)
     - Speaker photos are in [./docs/source/_static/speakers](./docs/source/_static/speakers)
 
 To build the site locally:

@@ -35,7 +35,6 @@ except Exception as e:
     print(f"Could not print package versions: {e}")
 
 
-
 def get_years(start_year=2021):
     year = datetime.datetime.now().year
     if year > start_year:
@@ -46,9 +45,9 @@ def get_years(start_year=2021):
 
 # -- Project information -----------------------------------------------------
 
-project = "2nd Workshop on Test-Time Adaptation: Putting Updates to the Test! (PUT)"
+project = "From Data to Discovery: Machine Learning for Dynamical Systems"
 author = "The organizing team"
-copyright = f"{get_years(2024)}, {author}"
+copyright = f"{get_years(2025)}, {author}"
 
 # -- General configuration ---------------------------------------------------
 
@@ -84,7 +83,6 @@ typehints_defaults = "comma"
 always_document_param_types = True
 simplify_optional_unions = True
 
-
 templates_path = ["_templates"]
 
 exclude_patterns: List[str] = []
@@ -94,31 +92,27 @@ html_theme = "pydata_sphinx_theme"
 # https://pydata-sphinx-theme.readthedocs.io/en/latest/user_guide/configuring.html
 html_theme_options = {
     "logo": {
-        "text": "PUT 2025",
-       #  "image_light": "logo.png",
-        # "image_dark": "_static/logo-dark.png",
+        "text": "FDD @ ICLR 2026",
+        "image_light": "_static/logos/fddlogo.png",
+        "image_dark": "_static/logos/fddlogo.png",
     },
     "nosidebar": True,
-    "icon_links": [
-        {
-            "name": "Contact us!",
-            "url": "mailto:tta_icml25@googlegroups.com",
-            "icon": "fas fa-envelope",
-        },
-    ],
-    "external_links": [
-    ],
+    "icon_links": [{
+        "name": "Contact us!",
+        "url": "mailto:fdd-iclr26@googlegroups.com",
+        "icon": "fas fa-envelope",
+    },],
+    "external_links": [],
     "collapse_navigation": False,
     "navigation_depth": 4,
     "navbar_align": "content",
     "show_prev_next": False,
 }
 
-# TODO(stes): Replace with workshop logo
-#html_logo = "logo.png"
+html_logo = "_static/logos/fddlogo.png"
 
 # Remove the search field for now
-html_sidebars = {"**" : []}  # Empty dictionary to remove all sidebars
+html_sidebars = {"**": []}  # Empty dictionary to remove all sidebars
 
 html_show_sourcelink = False
 

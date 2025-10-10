@@ -1,11 +1,6 @@
 Accepted Papers
 ===============
 
-Please see all of the contributed work at https://openreview.net/group?id=ICML.cc/2025/Workshop/PUT.
+TBC
 
-.. rst-class:: table-hover
-
-.. csv-table:: papers
-   :file: papers.csv
-   :widths: 20, 580, 250, 130
-   :header-rows: 1
+.. Accepted papers will be presented in poster sessions, and a subset of papers will be selected by the program committee for oral presentations. Paper PDFs and poster thumbnails will be available on the workshop website after acceptance. The workshop will be non-archival, and a Best Paper Award will be given to one paper, selected by the program committee.
