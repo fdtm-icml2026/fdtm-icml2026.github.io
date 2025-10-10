@@ -1,7 +1,7 @@
 From Data to Discovery: Machine Learning for Dynamical Systems
 ===============================================================
 
-*ICLR 2026 workshop*
+*ICLR 2026 workshop proposal*
 
 .. image:: _static/logos/fddlogo.png
   :width: 300
@@ -43,7 +43,7 @@ Our submission timeline follows the ICLR 2026 recommended schedule:
 - **1 March 2026:** Author notification (global deadline)
 - **19 April 2026:** Camera-ready deadline and poster upload
 
-Invited Speakers & Panelists
+Tentative Invited Speakers & Panelists
 -----------------------------
 
 We have invited a diverse set of speakers for invited talks and researchers for a panel discussion. All speakers and panelists have confirmed their interest in participating in the workshop.
