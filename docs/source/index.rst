@@ -28,7 +28,6 @@ Submissions will present novel work and reflect the diversity of perspectives th
 
 - **Research papers** (4-6 pages): Present original work that advances methods or applications related to the workshop theme.
 - **Tiny papers** (2 pages): Early-stage, concise, or exploratory ideas that would benefit from community feedback during the workshop. This track aims at lowering the barrier to participation for researchers who may not typically publish in ML venues.
-- **Position papers** (2-4 pages): Offer clear perspectives or arguments on future directions, methodological challenges, or conceptual debates across relevant fields. Position papers must start with the prefix "Position:" in their title.
 - **Datasets and benchmarks** (2-4 pages): Introduce novel datasets, benchmarks, or evaluation protocols relevant to time series and dynamics benchmarking. Submission of code and/or data is mandatory for this track.
 
 All submissions must follow the ICLR 2026 formatting guidelines (page limits exclude references and appendices) and will be reviewed through OpenReview under a double-blind process. Accepted papers will be presented in poster sessions, with a subset selected for oral presentations. Paper PDFs and poster thumbnails will be available on the workshop website. The workshop will be non-archival, and a Best Paper Award will be given to one paper, selected by the program committee.
