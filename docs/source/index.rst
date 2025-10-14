@@ -24,7 +24,7 @@ We invite contributions on the following topics:
 
 **Submission Types**
 
-Submissions will present novel work and reflect the diversity of perspectives that the workshop aims to foster and connect. Contributions must be original and not published at any prior conference, including ICLR 2026. We invite four complementary types of submissions:
+Submissions will present novel work and reflect the diversity of perspectives that the workshop aims to foster and connect. Contributions must be original and not published at any prior conference, including ICLR 2026. We invite three complementary types of submissions:
 
 - **Research papers** (4-6 pages): Present original work that advances methods or applications related to the workshop theme.
 - **Tiny papers** (2 pages): Early-stage, concise, or exploratory ideas that would benefit from community feedback during the workshop. This track aims at lowering the barrier to participation for researchers who may not typically publish in ML venues.
