@@ -1,3 +1,11 @@
+/* Centered intro paragraph: equal left/right margins, justified text */
+.centered-intro {
+    max-width: 72em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
 .people {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));

@@ -92,14 +92,14 @@ html_theme = "pydata_sphinx_theme"
 # https://pydata-sphinx-theme.readthedocs.io/en/latest/user_guide/configuring.html
 html_theme_options = {
     "logo": {
-        "text": "FDD @ ICLR 2026",
-        "image_light": "_static/logos/fddlogo.png",
-        "image_dark": "_static/logos/fddlogo.png",
+        "text": "FDTM @ ICML 2026",
+        "image_light": "_static/logos/fdtmlogo.png",
+        "image_dark": "_static/logos/fdtmlogo.png",
     },
     "nosidebar": True,
     "icon_links": [{
         "name": "Contact us!",
-        "url": "mailto:fdd-iclr26@googlegroups.com",
+        "url": "mailto:fdtm-icml26@googlegroups.com",
         "icon": "fas fa-envelope",
     },],
     "external_links": [],
@@ -109,7 +109,7 @@ html_theme_options = {
     "show_prev_next": False,
 }
 
-html_logo = "_static/logos/fddlogo.png"
+html_logo = "_static/logos/fdtmlogo.png"
 
 # Remove the search field for now
 html_sidebars = {"**": []}  # Empty dictionary to remove all sidebars
